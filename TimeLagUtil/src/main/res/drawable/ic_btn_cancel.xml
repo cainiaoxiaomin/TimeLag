@@ -1,0 +1,32 @@
+<!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2022-2022. All rights reserved.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+  <path
+      android:pathData="M40.7547,80C62.0914,80 80,62.0914 80,40.7547C80,17.9086 62.0914,0 40.7547,0C17.9086,0 0,17.9086 0,40.7547C0,62.0914 17.9086,80 40.7547,80"
+      android:strokeAlpha="0.25"
+      android:strokeWidth="1"
+      android:fillColor="#5EA1FF"
+      android:fillType="evenOdd"
+      android:strokeColor="#00000000"
+      android:fillAlpha="0.25"/>
+  <path
+      android:pathData="M44.5237,41.4774L53.8307,50.7847C54.6718,51.6258 54.6718,52.9896 53.8307,53.8307C53.0232,54.6382 51.7341,54.6705 50.8881,53.9276L50.7847,53.8307L41.4774,44.5237L44.5237,41.4774Z"
+      android:strokeAlpha="0.7"
+      android:strokeWidth="1"
+      android:fillColor="#5EA1FF"
+      android:fillType="nonZero"
+      android:strokeColor="#00000000"
+      android:fillAlpha="0.7"/>
+  <path
+      android:pathData="M29.3171,26.2775L29.4204,26.3744L40.1026,37.0563L50.7847,26.3744C51.6258,25.5333 52.9896,25.5333 53.8307,26.3744C54.6382,27.1819 54.6705,28.471 53.9276,29.3171L53.8307,29.4204L29.4204,53.8307C28.5793,54.6718 27.2156,54.6718 26.3744,53.8307C25.567,53.0232 25.5347,51.7341 26.2775,50.8881L26.3744,50.7847L37.0563,40.1026L26.3744,29.4204C25.5333,28.5793 25.5333,27.2156 26.3744,26.3744C27.1819,25.567 28.471,25.5347 29.3171,26.2775Z"
+      android:strokeWidth="1"
+      android:fillColor="#5EA1FF"
+      android:fillType="nonZero"
+      android:strokeColor="#00000000"/>
+</vector>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2021-2022. All rights reserved.
+  -->
+
+<resources>
+    <dimen name="time_lag_window_height">325dp</dimen>
+    <dimen name="time_lag_window_width">272dp</dimen>
+</resources>
